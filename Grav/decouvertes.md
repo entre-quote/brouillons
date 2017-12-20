@@ -11,7 +11,7 @@ Je n'ai pas trouvé de solution qui ne nécessite pas l'installation du plugin [
 ```
 {% set taxlist = taxonomylist.get() %}
 {% if taxlist %}
-    {% set category = grav.uri.params("Themes", true) %} /* *Themes est la taxonomy que l'on veut lister * */
+    {% set category = grav.uri.params("Themes", true) %} /* Themes est la taxonomy que l'on veut lister */
     {% for tax,value in taxlist['Themes'] %}
         {% set current_page = (tax == category) ? 'active' : '' %}
         <li class="{{ current_page }}">
