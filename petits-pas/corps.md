@@ -5,3 +5,5 @@
 ## Brosse à dents
 ## Dentifrice
 ## Coton-tiges  
+## Mouchoirs
+## Se soigner
