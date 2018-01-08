@@ -33,7 +33,6 @@ form:
           fields:
 
             header.subTitle:
-              parrent.parent.classes: vertical
               ordering@: 1
               type: text
               label: Sous titre
@@ -61,6 +60,7 @@ On spécifie la tabulation dans laquelle on veut ajouter le champs, ici `content
 
 On crée ensuite notre champs. 
 
+- `header` le champs est enregistré dans le header du fichier markdown, nécessaire au bon fonctionnement
 - `header.subTitle:` son petit nom
 - `ordering@: 1` spécifie que l'on veut qu'il s'affiche à la 2è position
 - `type: text` ça sera un champ texte
