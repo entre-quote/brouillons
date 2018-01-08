@@ -71,4 +71,4 @@ On crée ensuite notre champs.
    on veut que le champs soit obligatoire, et vérifie que c'est bien du texte
 - `placeholder: "Ex. : Par … / Le …"` et enfin on spécifie le texte affiché par défaut
 
-Ensuite dans mon modèle `item.html.twig`, j'appelle `{{ page.subTitle }}` partout où j'en ai besoin
+Ensuite dans mon modèle `item.html.twig`, j'appelle `{{ page.header.subTitle }}` partout où j'en ai besoin
