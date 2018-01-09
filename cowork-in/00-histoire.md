@@ -31,10 +31,9 @@ Et ils ne changeront que peu depuis.
 On avait 5 bureaux, 4 chaises, un micro-onde, une imprimante, une machine à café, un frigo, une desserte à papier. Un peu léger   pour accueillir des gens. On a donc lancé une [campagne Ulule](https://fr.ulule.com/coworkin-montpellier/) pour acheter des chaises et en 3 jours, on avait atteind l'objectif.  
 Ça aide d'avoir une communauté intéressée et d'être dans les 1ers à vouloir lancer ça.
 
-## Évolutions
+## Les lieux
 
-On a pu ouvrir fin janvier 2013, entre temps Baptiste avait trouvé un job, il n'a jamais profité du lieu. D'autres se sont impliqués, plus ou moins, plus ou moins longtemps.
-Et depuis il fonctionne tant bien que mal, a évolué.
+On a pu ouvrir fin janvier 2013, entre temps Baptiste avait trouvé un job, il n'a jamais profité du lieu. L'histoire de notre espace s'est écrite dans les différents lieux qui nous ont hébergés.
 
 ### Rue de la République
 
@@ -50,3 +49,13 @@ Après les 5 mois rue de la République, on a trouvé de la place dans les locau
 
 KeepCore, une entreprise de développement de logiciels, a pas mal de ses employés se trouvant en régie, ils ont de la place pour nous héberger. 
 On a donc 2 grandes salles, 1 et rapidement 2 plus petites et on partage l'utilisation de la salle de réunion (un Google Agenda partagé fera l'affaire).
+
+### Rue Auguste Comte
+
+## Évolution
+
+### Du bureau à collège solidaire
+
+### La gestion quotidienne
+
+
