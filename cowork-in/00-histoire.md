@@ -40,7 +40,13 @@ Et depuis il fonctionne tant bien que mal, a évolué.
 
 Les 50m² n'étaient pas top, loin de là. Une seule pièce, pas d'espace pour s'isoler pour téléphoner, pas de séparation entre le coin repas/repos et l'espace de travail, pas bien chauffé (merci le chauffage au Kerdane)
 
-Par contre on a pu rencontrer des gens intéressés, intéressants, avec plein d'idées pour l'évolution (coworking crèche, cuisine pro partagée, oui tout ça existe maintenant). 
+Par contre on a pu rencontrer des gens intéressés, intéressants, avec plein d'idées pour l'évolution (coworking crèche, cuisine pro partagée, et oui tout ça existe maintenant). 
 On a eu aussi nos premiers relous à gérer, ça fait parti du jeu.
-Avec la fin du préavis, on a ch
+Avec l'approche de la fin du préavis, on ne s'est pas posé la question, on a cherché un lieu plus grand pour continuer à évoluer.
+
 Après les 5 mois rue de la République, on a trouvé de la place dans les locaux de KeepCore, rue de l'école de droit.
+
+### Rue de l'école de droit
+
+KeepCore, une entreprise de développement de logiciels, a pas mal de ses employés se trouvant en régie, ils ont de la place pour nous héberger. 
+On a donc 2 grandes salles, 1 et rapidement 2 plus petites et on partage l'utilisation de la salle de réunion (un Google Agenda partagé fera l'affaire).
